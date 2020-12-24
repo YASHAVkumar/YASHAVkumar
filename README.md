@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **yashavkumar91@gmail.com**
 
-- ⚡ Fun fact **HTML is language lol**
+- ⚡ Fun fact **There are hundreds of millions of rejects on Tinder a day.**
 
 <h3 >Connect with me:</h3>
 <p >
