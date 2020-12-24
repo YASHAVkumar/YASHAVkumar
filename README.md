@@ -1,6 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Yashav</h1>
 <br/>
+<h1>3rd year College Student.</h1>
 <table bgcolor="black" border="0" >
  <tr>
    <td>
@@ -49,12 +50,7 @@
   </tr>
   </table>
 
-<h4 style="font-size:30px;">
-	Hi I'm College Student Working from last 3 yrs on Development.
-	        In 2017 I joined Chitkara University Engineering College.<br>In my Engineering i covered and learned different subjects.<br>I opt <I style="background-color:yellow;">Full-Stack Web Development as Career.</I>     
-            I'm also a Compitative Programmer.
-			
-</h4>
+
 
 
 
