@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 https://www.facebook.com/Yashav.kumar.19
 - 😄 Pronouns: Mate Finder
 
-<img src="mine.jpg" align="center">
+<img src="IMG_20201219_145636.jpg" align="center">
