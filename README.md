@@ -43,7 +43,7 @@
   
   </td>
   <td>
-<img  src="IMG_20201219_145636.jpg"  width="300" height="300">
+<img  src="IMG_20201219_145636.jpg"  width="400" height="400">
   </td>
   
   </tr>
