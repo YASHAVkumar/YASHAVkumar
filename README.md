@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Yashav</h1>
 <br/>
-<table style="border:0;color:white;background-color:black;">
+<table bgcolor="black" border="0" >
  <tr>
    <td>
 - 👨‍💻 You can also check out my portfolio at 
