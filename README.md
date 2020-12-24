@@ -10,8 +10,8 @@
 
 - ⚡ Fun fact **HTML is language lol**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 >Connect with me:</h3>
+<p >
 
 <a href="https://www.linkedin.com/in/yashav-kumar/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="yashav-kumar" height="30" width="40" /></a>
 <a href="https://www.facebook.com/Yashav.kumar.19" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Yashav.kuamar.19" height="30" width="40" /></a>
@@ -43,7 +43,7 @@
   
   </td>
   <td>
-<img algin="right" src="IMG_20201219_145636.jpg" >
+<img  src="IMG_20201219_145636.jpg"  width="50%" height="50%">
   </td>
   
   </tr>
