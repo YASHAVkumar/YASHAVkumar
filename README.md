@@ -1,6 +1,9 @@
 
 <h1 align="center">Hi 👋, I'm Yashav</h1>
-
+<br/>
+<table>
+ <tr>
+   <td>
 - 👨‍💻 You can also check out my portfolio at 
 
 - 📫 How to reach me **yashavkumar91@gmail.com**
@@ -37,8 +40,14 @@
   </td>
     </tr>
   </table>
+  
+  </td>
+  <td>
 <img algin="right" src="IMG_20201219_145636.jpg" width="50%" height="50%">
-
+  </td>
+  
+  </tr>
+  </table>
 
 
 
