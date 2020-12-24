@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Yashav</h1>
 <br/>
-<table>
+<table style="border:0;color:white;background-color:black;">
  <tr>
    <td>
 - 👨‍💻 You can also check out my portfolio at 
@@ -20,7 +20,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
  
- <table algin="left">
+ <table algin="left" border="0">
     <tr>
       <td>
   <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
