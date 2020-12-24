@@ -37,7 +37,7 @@
   </td>
     </tr>
   </table>
-<img algin="right" src="" width="50%" height="50%">
+<img algin="right" src="IMG_20201219_145636.jpg" width="50%" height="50%">
 
 
 
