@@ -44,7 +44,7 @@
   
   </td>
   <td>
-<img  src="IMG_20201219_145636.jpg"  width="400" height="400">
+<img  src="https://media.giphy.com/media/26BRsu22GkM7hKu3e/source.gif"  width="400" height="400">
   </td>
   
   </tr>
