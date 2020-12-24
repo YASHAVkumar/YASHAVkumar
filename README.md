@@ -3,9 +3,7 @@
 <br/>
 <h1>3rd year Computer Science Student.</h1>
 
-<video controls>
-  <source src="Yashav.mp4" type="video/mp4" />
-</video>
+<img src="Yashav.jpg" width="100%">
  
 <table bgcolor="black" border="0" >
  <tr>
