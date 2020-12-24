@@ -3,7 +3,7 @@
 <br/>
 <h1>3rd year Computer Science Student.</h1>
 
-<img src="Untitled design-Max-Quality.jpg"  border="4"/>
+<img src="Untitled design-Max-Quality.jpg" width="100%" border="4"/>
  
 <table bgcolor="black" border="0" >
  <tr>
