@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Yashav</h1>
 <br/>
-<h1>3rd year College Student.</h1>
+<h1>3rd year Computer Science Student.</h1>
 <table bgcolor="black" border="0" >
  <tr>
    <td>
