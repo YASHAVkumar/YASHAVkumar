@@ -3,7 +3,7 @@
 <br/>
 <h1>3rd year Computer Science Student.</h1>
 
-<img src="Yashav.jpg" width="100%" height="50%">
+<img src="Yashav.jpg" height="400"/>
  
 <table bgcolor="black" border="0" >
  <tr>
