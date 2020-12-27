@@ -42,6 +42,10 @@
 <a href="https://djangoproject.com" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/django.svg" alt="django" width="40" height="40" />
 </a>
   </td>
+       <td>
+<a href="https://www.javatpoint.com/java-tutorial" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/java.svg" alt="Java" width="40" height="40" />
+</a>
+  </td>
     </tr>
   </table>
   
