@@ -1,5 +1,5 @@
 <!--Hi 👋-->
-<h1 align="center"><img src="https://media.giphy.com/media/LY8yDak6Tngb6FfPrt/source.gif" width="40" height="40">, I'm Yashav</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/LY8yDak6Tngb6FfPrt/source.gif" width="50" height="50">, I'm Yashav</h1>
 <br/>
 <h1>3rd year Computer Science Student.</h1>
 
