@@ -27,7 +27,7 @@
  <table algin="left" border="0">
     <tr>
       <td>
-  <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
+  <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/c.svg" alt="c" width="40" height="40"/> </a>
       </td>
       <td>
   <a href="https://www.w3schools.com/angular/angular_intro.asp" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/angularjs.svg" alt="angularjs" width="40" height="40"/> </a>
