@@ -3,12 +3,12 @@
 <br/>
 <h1>3rd year Computer Science Student.</h1>
 
-<img src="Untitled design-Max-Quality.jpg" width="100%" border="4"/>
+<a href="https://yashavkumar.github.io/YASHAVkumar/" alink="green" vlink="red" ><img src="Untitled design-Max-Quality.jpg" width="100%" border="4"/></a>
  
 <table bgcolor="black" border="0" >
  <tr>
    <td>
-- 👨‍💻 You can also check out my portfolio at 
+- 👨‍💻 You can also check out my portfolio at https://yashavkumar.github.io/YASHAVkumar/
 
 - 📫 How to reach me **yashavkumar91@gmail.com**
 
