@@ -57,7 +57,7 @@
   </table>
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=YASHAVkumar&show_icons=true&theme=dracula">
+<img src="https://github-readme-stats.vercel.app/api?username=YASHAVkumar&show_icons=true&theme=dracula" width="100%">
 
 
 
