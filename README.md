@@ -1,7 +1,7 @@
 <!--Hi 👋-->
 <h1 align="center">Hi <img src="https://media.giphy.com/media/LY8yDak6Tngb6FfPrt/source.gif" width="50" height="50">, I'm Yashav</h1>
 <br/>
-<h1>3rd year Computer Science Student.</h1>
+<h1>4th year Computer Science Student.</h1>
 
 <a href="https://portfolio-pages.vercel.app/" alink="green" vlink="red" ><img src="Untitled design-Max-Quality.jpg" width="100%" border="4"/></a>
  
